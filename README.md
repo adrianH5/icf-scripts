@@ -35,6 +35,6 @@ A simple Python tool with a Tkinter GUI to open scanned book PDFs at a specific 
 1. Open a Terminal and navigate to the project directory.
 2. Run the script:
    ```bash
-   python3 pdf_viewer.py
+   python3 main.py
    ```
 
