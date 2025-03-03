@@ -8,4 +8,4 @@ A simple Python tool with a Tkinter GUI to open scanned book PDFs at a specific 
 
 ## To Dos
 
-Page offsets doesn't work
+Page offsets doesn't work yet, not sure how to call adobe acrobat with page offset.
